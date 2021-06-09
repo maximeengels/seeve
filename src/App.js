@@ -97,7 +97,7 @@ function App() {
   return (
     <Router>
       <Box className="app">
-        {show &&  
+        {!show &&  
           <VStack h="100vh" w="100vw" className="headers" textAlign="center" alignItems="center" justifyContent="center" m="0">
             <h1 style={{fontSize:"2rem", paddingBottom:"50px"}}>Enter Seeve</h1>
             <HStack justifyContent="space-evenly" p="0 30%" w="100%">
@@ -106,7 +106,7 @@ function App() {
             </HStack>
           </VStack>
         }
-        {!show && 
+        {show && 
           <Box className="appWrap">
             <Box className="header">
               <Link as={NavLink} to="/" w="fit-content">
