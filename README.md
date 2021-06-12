@@ -11,11 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
@@ -26,16 +21,80 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Documentation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### React Documentation:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  UseRefs
+  
+  UseState
+  
+  UseEffect
+  
+  React-router
+  
+  Conditional Rendering
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Stack Overflow:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  CORS Error with Firebase
+    https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin/37765371
+  
+  Difference between set with {merge: true} and update
+  https://stackoverflow.com/questions/46597327/difference-between-set-with-merge-true-and-update
+  
+  Styling HTML5 audio element
+    https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
 
+### Libraries, Firebase & Codepen:
+  
+  Chakra UI
+  
+    https://chakra-ui.com/docs/theming/customize-theme
+    
+    https://chakra-ui.com/docs/form/input
+    
+    https://chakra-ui.com/docs/navigation/link
+    
+    https://chakra-ui.com/docs/feedback/alert
+ 
+  Live profile editing preview inspiration
+ 
+    https://www.reddit.com/r/reactjs/comments/gi1rsc/interactive_paycard_using_react_hooks/
+    
+  Intro Sequence inspiration
+  
+    https://jazzkeys.plan8.co/
+  
+  Firebase Authentication
+  
+    https://firebase.google.com/docs/auth/web/start
+  
+  Audio Visualizers
+  
+    https://github.com/willianjusten/awesome-audio-visualization
+    
+    https://codepen.io/nfj525/pen/rVBaab
+    
+  MDN Web Docs
+  
+    https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/clearRect
+    
+    https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
+  
+  Loading screen
+  
+    https://codesandbox.io/s/inspiring-liskov-t53fv?file=/src/App.js:742-750
+    
+  Libraries
+  
+    https://www.npmjs.com/package/react-h5-audio-player
+    
+    https://www.npmjs.com/package/@chakra-ui/react
+    
+    https://fontawesome.com/v5.15/how-to-use/on-the-web/setup/using-package-managers
+    
+  
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
