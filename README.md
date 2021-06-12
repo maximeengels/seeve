@@ -38,12 +38,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Stack Overflow:
 
   CORS Error with Firebase
+  
     https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin/37765371
   
   Difference between set with {merge: true} and update
-  https://stackoverflow.com/questions/46597327/difference-between-set-with-merge-true-and-update
+  
+    https://stackoverflow.com/questions/46597327/difference-between-set-with-merge-true-and-update
   
   Styling HTML5 audio element
+  
     https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
 
 ### Libraries, Firebase & Codepen:
